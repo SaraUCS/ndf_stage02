@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/stream.nuernberg.digital\/galgenhof\/"
                 }],
          "type":"tilelayer",
          "visible":true,
