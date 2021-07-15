@@ -185,6 +185,12 @@
  "nextlayerid":19,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"script",
+         "type":"string",
+         "value":"https:\/\/pi4.e6azumuvyiabvs9s.myfritz.net\/mapserver\/nue-script.js"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
